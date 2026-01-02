@@ -1,3 +1,12 @@
+# 3 Jan 2026
+Graphics performance optimization
+1. Game -> Play maximized. It increases the FPS on the Oculus Quest 2 by 75%
+2. [7 Ways to Optimize your Unity Project with URP](https://www.youtube.com/watch?v=NFBr21V0zvU)
+   - Select an object's light component, Mode:Baked
+   - Object, Mesh Renderer, Lightmapping
+   - 
+
+
 # 16 Mar 2025
 [What are normals](https://www.youtube.com/watch?v=hkTjreiookM)
 
