@@ -1,3 +1,7 @@
+# 9 Jan 2026
+The Probuilder UI is dramatically changed in Unity 6. It was a bit of surprise  
+[ProBuilder window missing in Unity 6](https://discussions.unity.com/t/probuilder-window-missing-in-unity-6/944138/99)
+
 # 3 Jan 2026
 Graphics performance optimization
 1. Game -> Play maximized. It increases the FPS on the Oculus Quest 2 by 75%
