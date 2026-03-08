@@ -1,6 +1,7 @@
 # 8-Mar-2026
 
-[Oculus with GTX-1050-TI](https://www.reddit.com/r/OculusQuest/comments/i2lsxu/does_the_oculus_link_work_with_gtx_1050_ti_the/)
+[Oculus with GTX-1050-TI](https://www.reddit.com/r/OculusQuest/comments/i2lsxu/does_the_oculus_link_work_with_gtx_1050_ti_the/)  
+C:\Program Files\Oculus\Support\oculus-runtime\compatiblity.json
 
 # 9 Jan 2026
 The Probuilder UI is dramatically changed in Unity 6. It was a bit of surprise  
