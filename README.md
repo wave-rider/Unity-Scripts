@@ -1,3 +1,6 @@
+# 15-Mar-2026
+Reset Oculus  
+`Stop-Service OVRService -Force; Remove-Item "$env:USERPROFILE\AppData\LocalLow\Oculus\*" -Recurse -Force; Remove-Item "$env:USERPROFILE\AppData\Roaming\Oculus\*" -Recurse -Force; Remove-Item "$env:USERPROFILE\AppData\Local\Oculus\*" -Recurse -Force;Start-Service OVRService`
 # 8-Mar-2026
 
 [Oculus with GTX-1050-TI](https://www.reddit.com/r/OculusQuest/comments/i2lsxu/does_the_oculus_link_work_with_gtx_1050_ti_the/)  
